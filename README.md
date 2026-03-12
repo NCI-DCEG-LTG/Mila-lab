@@ -1,6 +1,7 @@
-# LTG Labs
+# Mila's Lab
 
-This folder contains lab-specific code, scripts, and resources contributed by PIs and their research groups.
+Welcome to Mila's lab Repo!
+
 
 ### Ludmila Prokunina-Olsson Lab
 - **GitHub**: https://github.com/ChiaHan-1215
